@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Naftari Michael Ngonya</title>
+</head>
+<body>
+    <h1>Naftari Michael Ngonya</h1>
+    <p>BSc Applied Microbiology & Chemistry</p>
+    <p>University of Dar es Salaam</p>
+
+    <h2>Research Interests</h2>
+    <ul>
+        <li>Natural ARV drug research</li>
+        <li>Microbiology</li>
+        <li>Chemistry</li>
+    </ul>
+
+    <p>Email: naftari76@gmail.com</p>
+</body>
+</html>
